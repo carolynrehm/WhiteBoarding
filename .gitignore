@@ -59,3 +59,9 @@ local.properties
 .target
 
 Servers/*
+
+*/target/*
+
+.project
+.classpath
+
