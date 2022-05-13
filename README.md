@@ -4,7 +4,7 @@ solutions to practice whiteboarding/code challenge questions
 
 1. Implement a method which returns the nth number of the fibannoci sequence 
     - part 2: Implement a method which returns an array of the fibannoci numbers up to the nth value 
-2. Implement the a utility method to print an array of int's
+2. Implement a utility method to print an array of int's
     - part 2: Implement a utility method which takes an array of a generic type and converts it to a string (without taking a parameter of Object[])
 3. Implement a method which capitalizes the first letter of each word in a string
 4. Implement a method which returns the value of n! when n is passed in as a parameter
